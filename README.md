@@ -31,4 +31,6 @@ Business.searchWithTerm("Restaurants", sort: .distance, categories: ["asianfusio
         print(business.address!)
     }
 }
+
+<img src='https://i.imgur.com/3Bkp1kZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ```
